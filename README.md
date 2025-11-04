@@ -1,4 +1,10 @@
 # Introduction to Deep Learning
+> A comprehensive introduction to deep learning — from neural network fundamentals to advanced architectures including CNNs, RNNs, Transformers, and multi-GPU training.
+
+[![Course](https://img.shields.io/badge/Course-Nov%202025-blue)](https://events.asc.ac.at/event/207/)
+[![Level](https://img.shields.io/badge/Level-Beginner%20Friendly-green)]()
+[![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-orange)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow)]()
 
 Comprehensive course materials from the **Introduction to Deep Learning** training by AI:AT – AI Factory Austria and ASC – Austrian Scientific Computing. This repository contains lecture slides and hands-on Jupyter notebooks covering fundamental and advanced deep learning concepts.
 
@@ -167,6 +173,22 @@ This course received funding from the European High-Performance Computing Joint 
 - AI:AT – AI Factory Austria
 - ASC – Austrian Scientific Computing (TU Wien)
 - EuroCC Austria
+
+## 📖 Citation
+
+If you use these materials in your work, please cite:
+
+```bibtex
+@course{intro_deep_learning2025,
+  title        = {Introduction to Deep Learning},
+  author       = {Harrison, Simeon},
+  organization = {AI:AT -- AI Factory Austria and ASC Research Center, TU Wien},
+  year         = {2025},
+  month        = {November},
+  url          = {https://events.asc.ac.at/event/207/},
+  note         = {Course materials originally developed within EuroCC Austria (2023)}
+}
+```
 
 ---
 
